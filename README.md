@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi, I'm Fagbola Tomiwa
 
-<!--
-**Tfagbola/Tfagbola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Identity and Access Management (IAM) Analyst | Building towards IT Support in UK
 
-Here are some ideas to get you started:
+I'm teaching myself cybersecurity from the ground up, with a focus on identity and access management: making sure the right people have the right access at the right time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I document everything I build, break and fix in my home lab here, so you can see how I think and troubleshoot.
+
+Currently I am
+Studying: Networking, Windows and Linux fundamentals (TryHackMe Pre-Security)
+Building: My first home lab (VirtualBox + Windows Server + Active Directory)
+Next certification: CompTIA A+
+
+Skills I'm developing
+Active Directory · Windows Server · PowerShell · Microsoft 365 / Entra ID · Networking basics · Linux basics
+
+Projects.                                             Project	Status
+Home lab build	                                      🟡 In progress
+Active Directory: fake company setup	                ⚪ Planned
+Help-desk ticket simulation	                          ⚪ Planned
+Bulk user onboarding with PowerShell	                ⚪ Planned
